@@ -20,8 +20,8 @@
     "video": "instagram-schedule-02.mp4",
     "cover": "instagram-schedule-02-cover.jpg",
     "status": "waiting",
-    "attempts": 1,
-    "note": "Instagram HTTP 400: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"A17ppg4QyAU32qZzFYBuj0h\"}}"
+    "attempts": 2,
+    "note": "Instagram HTTP 400: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Aj9V6xC25iSf87Q0ija-DsJ\"}}"
   },
   {
     "id": "instagram-schedule#03",
