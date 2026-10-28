@@ -12,18 +12,6 @@
     "note": "posted early from the Mac on 28 Oct 00:45 IST as a test (asked for)"
   },
   {
-    "id": "instagram-schedule#02",
-    "number": "02",
-    "title": "2000 teddy vs 29 yearbook",
-    "at": "2026-10-28T20:00:00+05:30",
-    "caption": "₹2,000 teddy vs a ₹29 link: guess which one made her cry 😭\n\nOption one lives in her cupboard by Tuesday. Option two is a Best Friend Yearbook made just for her: student profile (moustache included), awards she'll never live down, the evidence… and then the honest page.\n\nBest Friend Yearbook, just ₹29 🎁 Link in bio → awwdrop.in. Tag your bestie 👇\n\n#bestfriend #birthdaygift #giftideas #bff #awwdrop",
-    "video": "instagram-schedule-02.mp4",
-    "cover": "instagram-schedule-02-cover.jpg",
-    "status": "failed",
-    "attempts": 3,
-    "note": "Instagram HTTP 400: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AJQdn-5AAwLs9xLTjK-ZLjv\"}}"
-  },
-  {
     "id": "instagram-schedule-2#01",
     "number": "01",
     "title": "Karwa Chauth moon",
@@ -82,6 +70,18 @@
     "video": "instagram-schedule-2-02.mp4",
     "cover": "instagram-schedule-2-02-cover.jpg",
     "status": "waiting"
+  },
+  {
+    "id": "instagram-schedule#02",
+    "number": "02",
+    "title": "2000 teddy vs 29 yearbook",
+    "at": "2026-10-31T20:00:00+05:30",
+    "caption": "₹2,000 teddy vs a ₹29 link: guess which one made her cry 😭\n\nOption one lives in her cupboard by Tuesday. Option two is a Best Friend Yearbook made just for her: student profile (moustache included), awards she'll never live down, the evidence… and then the honest page.\n\nBest Friend Yearbook, just ₹29 🎁 Link in bio → awwdrop.in. Tag your bestie 👇\n\n#bestfriend #birthdaygift #giftideas #bff #awwdrop",
+    "video": "instagram-schedule-02.mp4",
+    "cover": "instagram-schedule-02-cover.jpg",
+    "status": "waiting",
+    "attempts": 3,
+    "note": "failed 28 Oct 20:00 (GitHub had a wrong Instagram token); moved to 31 Oct 20:00"
   },
   {
     "id": "instagram-schedule-2#03",
